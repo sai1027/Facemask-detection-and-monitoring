@@ -12,9 +12,9 @@ process and eliminating human interference with more than 92% accuracy.
 ## Tech Stack
 
 **UI:** HTML,CSS,Javscript
-**Libraries/ frameworks:** numpy,  matplotlib, Twilio API
-Tech: Tensorflow, Keras,OpenCV
-
+**Libraries/ frameworks:** numpy,  matplotlib, Twilio API,SciPy
+**Tech:** Tensorflow, Keras,OpenCV
+**Hardware:** Raspberry pi
 
 ## Architecture Diagram
 
@@ -28,7 +28,7 @@ Tech: Tensorflow, Keras,OpenCV
 ## Demo
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/14ON_KiYGAo/0.jpg)](https://www.youtube.com/watch?v=14ON_KiYGAo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vigoydIRu8XJs/0.jpg)](https://www.youtube.com/watch?v=goydIRu8XJs)
 
 
 
